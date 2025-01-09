@@ -1,2 +1,2 @@
 # sec.projects
-This repo contains the second sets of my projects
+This repo contains the second set of my projects
